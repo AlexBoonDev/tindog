@@ -1,2 +1,2 @@
 # tindog
-html / css practice 
+html / css / bootstrap practice 
